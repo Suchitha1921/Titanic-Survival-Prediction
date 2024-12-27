@@ -106,6 +106,8 @@ How to Run the Project
 5. Evaluate the model:  
    python scripts/evaluate_model.py 
 
+License
+This project is licensed under the MIT License.
 
 Conclusion  
 
